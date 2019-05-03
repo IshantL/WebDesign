@@ -15,4 +15,6 @@
 3. Linking Pages together
 
 ## Section 3
- 1. Adding media to web pages
+ 1. Adding media to web pages- images
+ 2. Audio files
+ 3. Video files
