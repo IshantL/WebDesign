@@ -22,4 +22,7 @@
  ## Section 4 - Text Basics
  1. Headings
  2. Lists- unordered, ordered and descripition 
- 3. Bold and Italic-
+ 3. Bold and Italic
+
+ ## Section: 5
+ 1. Semantics & Organization
