@@ -21,3 +21,4 @@
 
  ## Section 4 - Text Basics
  1. Headings
+ 2. Lists- unordered, ordered and descripition 
