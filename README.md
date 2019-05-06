@@ -30,3 +30,4 @@
  3. Non-semantic Elements ("div" and "span")
     -div (block level element)
     -span (inline element)
+ 4. HTML Comments
