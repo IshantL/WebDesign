@@ -40,4 +40,5 @@
 
  ## Section 7
  1. Table
+ 2. Do not use table for layout
 
