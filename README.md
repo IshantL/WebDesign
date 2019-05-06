@@ -38,3 +38,6 @@
  2. Different Types of Inputs
  3. Choosing Between a set of options
 
+ ## Section 7
+ 1. Table
+
