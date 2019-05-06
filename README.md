@@ -27,3 +27,6 @@
  ## Section: 5
  1. Semantics & Organization
  2. Navigations
+ 3. Non-semantic Elements ("div" and "span")
+    -div (block level element)
+    -span (inline element)
