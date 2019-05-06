@@ -31,3 +31,7 @@
     -div (block level element)
     -span (inline element)
  4. HTML Comments
+ 5. Sections- Here inside section it will change the size of text depends on sub sections.
+
+ ## Section 6
+ 1. HTML Forms
