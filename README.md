@@ -48,3 +48,7 @@
 
 ## Section 8 -CSS Essential
 1. Introduction to CSS --> h1{}.. here h1 is selector
+2. CSS selector
+    -Type Selector
+    -Descendant Selector - inside other e.g: p span{}
+    -Class Selector -e.g .highlight{}

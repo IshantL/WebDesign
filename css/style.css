@@ -5,3 +5,13 @@ h1 {
 p{
     color: green;
 }
+
+header p {
+    color:fuchsia;
+}
+.highlight{
+    background-color: yellow;
+}
+footer .highlight{
+    background-color: coral;
+}
