@@ -36,5 +36,5 @@
  ## Section 6
  1. HTML Forms
  2. Different Types of Inputs
- 3. 
+ 3. Choosing Between a set of options
 
