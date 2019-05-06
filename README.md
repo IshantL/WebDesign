@@ -47,4 +47,4 @@
 # CSS
 
 ## Section 8 -CSS Essential
-1. Introduction to CSS
+1. Introduction to CSS --> h1{}.. here h1 is selector
