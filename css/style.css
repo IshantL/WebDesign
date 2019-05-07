@@ -23,6 +23,7 @@ border: 5px solid;
 margin-bottom: 10px;
 width: 250px;
 height: 150px;
+box-sizing: border-box;
 }
 
 .box-b {
