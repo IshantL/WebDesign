@@ -61,3 +61,5 @@
 3. Box Model-
     A box is nothing more than an area that takes up space on the web page to create space within the inside of that box. We use padding to draw an outline around the outer edge of that box.
     We use border and then to push or create space around the outside of the box we use margin.
+    
+4. Creating a Page layout with float

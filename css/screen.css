@@ -1,0 +1,22 @@
+.container {
+    max-width: 940px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.contain-area {
+    border-top: 3px solid black;
+    border-bottom: 3px solid black;
+}
+
+.main-area {
+    width:66%;
+    float: left;
+}
+
+.sidebar {
+    width: 34%;
+    float: right;
+}
+.fix{
+    clear: both;
+}
