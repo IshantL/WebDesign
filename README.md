@@ -64,3 +64,6 @@
 
 4. Creating a Page layout with float
 5. Beatify the page Layout.
+
+## Section 9 - Intermediate CSS
+1. Styling Navigation Menu

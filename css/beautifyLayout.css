@@ -72,3 +72,29 @@ footer{
     padding-bottom: 5px;
     padding-top: 5px;
 }
+/* site navigation*/
+.nav-bar{
+    margin-top: 10px;
+}
+.nav-bar li {
+    list-style: none;
+    float: left;    
+    margin-right: 10px;
+}
+
+.nav-bar ul {
+    margin: 0;
+    padding: 0;
+}
+.nav-bar a {
+    display: block;
+    color: #869960;
+    text-decoration: none;
+    border: 3px solid #869960;
+    padding: 10px 10px;
+
+}
+
+.nav-bar a:hover{
+    background-color: #e5e9dc;
+}
