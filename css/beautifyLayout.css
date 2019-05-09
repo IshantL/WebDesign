@@ -52,7 +52,6 @@ body {
 }
 header {
     padding-top: 20px;
-    padding-bottom: 10px;
     color: darkgreen;
 
 }
@@ -90,8 +89,9 @@ footer{
     display: block;
     color: #869960;
     text-decoration: none;
-    border: 3px solid #869960;
+    border: 3px solid #e5e9dc;
     padding: 10px 10px;
+    border-bottom: none;
 
 }
 
