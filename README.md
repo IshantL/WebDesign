@@ -82,3 +82,6 @@
     So here's a quick review.
     
     Absolute lets you remove an element from the natural flow of the page and instead position it in relation to an ancestor element absolutely positioned elements will look for the closest ancestor element that uses position relative and it will use that element as its frame of reference. If the absolutely positioned element does not have any ancestors which use position relative it will use the Web browser window as a whole as its frame of reference if multiple elements are overlapping each other and you want to have fine grained control over which element stacks on top of the other. You can use the z index property to establish a stacking order.
+
+## Section 10 - Neccesary CSS tasks
+1. Styling Data tables
