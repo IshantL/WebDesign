@@ -158,3 +158,27 @@ html {
     zoom: 1;
   }
   
+  /*form style */
+  form {
+    background-color: #ececec;
+    padding: 30px 40px;
+  }
+  input[type="email"],
+  input[type="password"],
+  input[type="text"],
+  input[type="number"],
+  input[type="tel"] {
+    width: 100%;
+    display: block;
+    box-sizing: border-box;
+    padding:0 10px;
+    height: 40px;
+  }
+  .hidden-label {
+    position: absolute;
+    height: 0;
+    width: 0;
+    overflow: hidden;
+    visibility: hidden;
+  }
+  
