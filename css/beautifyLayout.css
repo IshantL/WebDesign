@@ -98,3 +98,23 @@ footer{
 .nav-bar a:hover{
     background-color: #e5e9dc;
 }
+
+img{
+    max-width: 100%;
+    height: auto;
+}
+/* Banner Overlay */
+.image-banner {
+    position: relative;
+}
+.image-banner img {
+    display: block;
+}
+.image-banner-description{
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    color: #FFF;
+    background-color: rgba(0,0,0,0.65);
+    padding: 10px 20px;
+}
