@@ -85,3 +85,4 @@
 
 ## Section 10 - Neccesary CSS tasks
 1. Styling Data tables
+2. Styling Forms
