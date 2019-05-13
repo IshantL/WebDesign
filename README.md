@@ -86,3 +86,7 @@
 ## Section 10 - Neccesary CSS tasks
 1. Styling Data tables
 2. Styling Forms
+
+## Section 11 - CSS Typography
+1. CSS typography
+2. Using Custom web fonts
