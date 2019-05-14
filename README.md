@@ -90,3 +90,11 @@
 ## Section 11 - CSS Typography
 1. CSS typography
 2. Using Custom web fonts
+
+## Section 12- Developer Tools
+
+## section 13 - CSS Background
+1. Background Images
+2. Gradient Background
+3. CSS Sprites
+4. Full Width Backgrounds - Fixed Width Content
